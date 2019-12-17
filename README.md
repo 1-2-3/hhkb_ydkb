@@ -44,9 +44,9 @@ HHKB是一把极其独特的键盘。世界上再没有哪个键盘的设计者�
 - 按住空格 + i k j l h' = ↑ ↓ ← → Home End
 - 按住空格 + 1~0 - + = F1~F12
 - 按住Esc + 1~0 - + = F1~F12
-- 按住` + 1~0 - + = F1~F12
+- 按住\` + 1~0 - + = F1~F12
 - Delete = Backspace
-- 按住` + Delete = Delete
+- 按住\` + Delete = Delete
 - 按住` + \ = Insert
 - 按住` + [ = Win+Ctrl + ← （切换到前一个Win10虚拟桌面）
 - 按住` + ] = Win+Ctrl + → （切换到后一个Win10虚拟桌面）
