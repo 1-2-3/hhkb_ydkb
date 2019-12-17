@@ -34,4 +34,21 @@ HHKB是一把极其独特的键盘。世界上再没有哪个键盘的设计者�
 
 最后附上我的 [YDKB 配置文档](https://github.com/1-2-3/hhkb_ydkb/blob/master/HHKB_BLE.BIN)，有兴趣的同学可以把它导入 YKDB 官网上的键位设置小工具作为参考。
 
+配列简要说明：
+- 单击右Shift = ↑
+- 右Alt = ↓
+- 右◇ = ←
+- Fn = →
+- 按住Tab = Fn
+- 左◇ = Win
+- 按住空格 + i k j l h' = ↑ ↓ ← → Home End
+- 按住空格 + 1~0 - + = F1~F12
+- 按住Esc + 1~0 - + = F1~F12
+- 按住` + 1~0 - + = F1~F12
+- Delete = Backspace
+- 按住` + Delete = Delete
+- 按住` + \ = Insert
+- 按住` + [ = Win+Ctrl + ← （切换到前一个Win10虚拟桌面）
+- 按住` + ] = Win+Ctrl + → （切换到后一个Win10虚拟桌面）
+
 有任何问题或创意欢迎在问题区留言哦。
